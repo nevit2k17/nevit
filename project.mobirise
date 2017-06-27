@@ -467,6 +467,15 @@
             },
             ".mbr-plan .list-group-item": {
               "border-color": "#cfcfcf"
+            },
+            ".mbr-price-figure": {
+              "color": "#b8312f"
+            },
+            ".mbr-price-value": {
+              "color": "#b8312f"
+            },
+            ".mbr-plan-label": {
+              "color": "#f7da64"
             }
           },
           "_tags": [
@@ -501,39 +510,39 @@
           "subtitle": "Pricing table with four columns and solid color background.",
           "label1": "HOT!",
           "title1": "Single Room",
-          "subtitle1": "Description",
+          "subtitle1": "",
           "currency1": "$",
-          "price1": "25",
+          "price1": "29.99",
           "period1": "",
-          "description1": "More details",
-          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">1 wireless switch</li><li class=\"list-group-item\">1 wireless receiver</li><li class=\"list-group-item\">30m/160m inside/outside range</li><li class=\"list-group-item\">25 years warranty</li></ul>",
+          "description1": "was $34.99",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">1 x wireless switch (any color)</li><li class=\"list-group-item\">1 x wireless receiver</li><li class=\"list-group-item\">30m/160m inside/outside range</li><li class=\"list-group-item\">25 year warranty</li></ul>",
           "button1": "<a data-app-btn=\"true\" href=\"index.html#form1-g\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Request</a>",
           "label2": "HOT!",
           "title2": "Studio",
-          "subtitle2": "Description",
+          "subtitle2": "",
           "currency2": "$",
-          "price2": "65",
+          "price2": "64.99",
           "period2": "",
-          "description2": "More details",
-          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">3 wireless switchs</li><li class=\"list-group-item\">3 wireless receivers</li><li class=\"list-group-item\">30m/160m inside/outside range</li><li class=\"list-group-item\">25 years warranty</li></ul>",
+          "description2": "was $74.99",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">3 x wireless switch (any color)</li><li class=\"list-group-item\">3 x wireless receiver</li><li class=\"list-group-item\">30m/160m inside/outside range</li><li class=\"list-group-item\">25 year warranty</li></ul>",
           "button2": "<a data-app-btn=\"true\" href=\"index.html#form1-g\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Request</a>",
           "label3": "HOT!",
           "title3": "House",
-          "subtitle3": "Description",
+          "subtitle3": "",
           "currency3": "$",
-          "price3": "300",
+          "price3": "299.99",
           "period3": "",
-          "description3": "More details",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">15 wireless switchs</li><li class=\"list-group-item\">15 wireless receivers</li><li class=\"list-group-item\">30m/160m inside/outside range</li><li class=\"list-group-item\">25 years warranty</li></ul>",
+          "description3": "was $349.99",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">15 x wireless switch (any color)</li><li class=\"list-group-item\">15 x wireless receiver</li><li class=\"list-group-item\">30m/160m inside/outside range</li><li class=\"list-group-item\">25 year warranty</li></ul>",
           "button3": "<a data-app-btn=\"true\" href=\"index.html#form1-g\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Request</a>",
           "label4": "HOT!",
-          "title4": "Cusom",
-          "subtitle4": "Description",
+          "title4": "Building",
+          "subtitle4": "",
           "currency4": "",
-          "price4": "TBD",
+          "price4": "Varies",
           "period4": "",
-          "description4": "More details",
-          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Unlimited amount of switches and receivers</li><li class=\"list-group-item\">Customizable switch designs</li><li class=\"list-group-item\">On-site installation assistance</li><li class=\"list-group-item\">30m/160m inside/outside range</li></ul>",
+          "description4": "",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Unlimited number of switches and receivers</li><li class=\"list-group-item\">Customizable switch designs</li><li class=\"list-group-item\">On-site installation assistance</li><li class=\"list-group-item\">30m/160m inside/outside range</li><li class=\"list-group-item\">25 year warranty</li></ul>",
           "button4": "<a data-app-btn=\"true\" href=\"index.html#form1-g\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Request</a>"
         },
         {

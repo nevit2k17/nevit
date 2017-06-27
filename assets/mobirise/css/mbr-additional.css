@@ -521,6 +521,15 @@ h6,
 #pricing-table2-f .mbr-plan .list-group-item {
   border-color: #cfcfcf;
 }
+#pricing-table2-f .mbr-price-figure {
+  color: #b8312f;
+}
+#pricing-table2-f .mbr-price-value {
+  color: #b8312f;
+}
+#pricing-table2-f .mbr-plan-label {
+  color: #f7da64;
+}
 #form1-g .form-control-label {
   color: #232323;
 }
